@@ -1,5 +1,5 @@
 //
-//  WFLViewController.h
+//  WFLTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ray Wu on 11/2/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface WFLViewController : UIViewController
+@interface WFLTableViewController : UITableViewController
 
 @end
